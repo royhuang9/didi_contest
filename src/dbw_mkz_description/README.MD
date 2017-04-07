@@ -5,5 +5,5 @@
 ## run command
 ```
 $ source devel/setup.bash
-$ roslaunch db_mkz_description display.launch
+$ roslaunch db_mkz_description display_mkz.launch
 ```
